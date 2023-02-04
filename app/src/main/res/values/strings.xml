@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Myfirstapp</string>
+    <string name="About">About_page</string>
+    <string name="About_Us">Contact</string>
+</resources>
